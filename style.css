@@ -94,36 +94,36 @@ body {
 }
 
 .Colton {
-
+  height: 88%;
   margin-right: 25px;
   align-self: start;
   padding: 32px;
   background-color: hsl(300, 43%, 22%);
   border-radius: 9px;
 
-  width: 22%;
+  width: 18%;
 }
 
 .Irene {
-  margin-top: 30px;
+  margin-top: 83px;
   margin-right: 25px;
   align-self: center;
   padding: 32px;
   background-color: hsl(300, 43%, 22%);
   border-radius: 9px;
-
-  width: 22%;
+  height: 92%;
+  width: 18%;
 }
 
 .Anne {
-  margin-top: 55px;
+  margin-top: 120px;
   margin-right: 32px;
   align-self: center;
-  padding: 26px;
+  padding: 32px;
   background-color: hsl(300, 43%, 22%);
   border-radius: 9px;
-  
-  width: 22%;
+  height: 92%;
+  width: 18%;
   
 }
 
